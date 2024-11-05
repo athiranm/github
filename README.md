@@ -11,3 +11,8 @@ Region: Southeast Asia
 az account set --subscription 'Azure Pass - Sponsorship'
 
 az ad sp create-for-rbac --name GH-Action-eshoponweb --role contributor --scopes /subscriptions/SUBSCRIPTION-ID/resourceGroups/RESOURCE-GROUP --sdk-auth
+
+az account set --subscription 'Azure Pass - Sponsorship'
+
+az ad sp create-for-rbac --name GH-Action-eshoponweb --role contributor --scopes /subscriptions/6eeb57d2-58f5-4fb4-900f-adccd3ef8353/resourceGroups/cloud-shell-storage-southeastasia --sdk-auth
+
