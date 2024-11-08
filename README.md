@@ -16,3 +16,6 @@ az account set --subscription 'Azure Pass - Sponsorship'
 
 az ad sp create-for-rbac --name GH-Action-eshoponweb --role contributor --scopes /subscriptions/6eeb57d2-58f5-4fb4-900f-adccd3ef8353/resourceGroups/cloud-shell-storage-southeastasia --sdk-auth
 
+G38ee94mp3FciYAH
+
+https://github.com/NinjaCloud/Jenkins-argoCD/blob/main/kops-k8s-install.md
