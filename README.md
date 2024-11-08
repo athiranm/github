@@ -19,3 +19,6 @@ az ad sp create-for-rbac --name GH-Action-eshoponweb --role contributor --scopes
 G38ee94mp3FciYAH
 
 https://github.com/NinjaCloud/Jenkins-argoCD/blob/main/kops-k8s-install.md
+
+
+https://github.com/NinjaCloud/argoCD
