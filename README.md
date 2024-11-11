@@ -22,3 +22,5 @@ https://github.com/NinjaCloud/Jenkins-argoCD/blob/main/kops-k8s-install.md
 
 
 https://github.com/NinjaCloud/argoCD
+
+kubectl get secret argocd-initial-admin-secret -n argocd -o jsonpath={.data.password} | base64 -d
